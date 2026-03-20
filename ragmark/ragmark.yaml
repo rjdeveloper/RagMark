@@ -1,0 +1,15 @@
+ragmark:
+  enabled: true
+
+  # Max number of active bookmarks
+  max_bookmarks: 5
+
+  # Similarity threshold for local search
+  similarity_threshold: 0.75
+
+  # Placement in RAG pipeline
+  # options: pre | post | off
+  rag_door: pre
+
+  # Debug mode (optional)
+  debug: false
