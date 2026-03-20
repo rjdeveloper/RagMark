@@ -1,5 +1,8 @@
 # RagMark
 
+RagMark helps RAG systems remember context between queries using lightweight in-memory bookmarking.
+
+
 **Lightweight, configurable context bookmarking for RAG pipelines.**
 
 RagMark is an in-memory layer that adds *context awareness* to any Retrieval-Augmented Generation system — enabling follow-up queries to continue from where they left off instead of restarting every time.
